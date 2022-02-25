@@ -1,0 +1,3 @@
+string answer = get_string("what's your name?\n");
+printf("hello, %s, answer");
+/* %s is the placeholder for input value */
