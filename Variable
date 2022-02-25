@@ -1,0 +1,8 @@
+int counter = 0;
+counter = counter + 1; 
+/* or we can mention like this */
+counter += 1;
+/* or like this */
+/* This increments int value by 1 */
+counter++;
+
