@@ -1,0 +1,4 @@
+while (true)
+{
+    printf("Hello, World\n");
+}
